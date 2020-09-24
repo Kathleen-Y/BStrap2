@@ -15,10 +15,9 @@ The Bootstrap portfolio should minimize the use of media queries.
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 * Must properly utilize Bootstrap components and grid system.
 ```
+## Languages
+* HTML
 
 ## Contact
-#### Developer/Company
 * Homepage: [@profile](https://github.com/Kathleen-Y)
 * Twitter: [@Ros3p3tal](https://twitter.com/Ros3p3tal)
-
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/kathleen-y/sw-name&title=sw-name&language=&tags=github&category=software) 
