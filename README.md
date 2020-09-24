@@ -1,13 +1,8 @@
-# Homework2
-README
+BStrap2
+======
+**BStrap2**
 
-Create the following files files: {index.html, portfolio.html and contact.html.}
-Using Bootstrap, develop your portfolio site with the following items:
-
-- A navbar
-- A responsive layout
-- Responsive images
-
+```
 The Bootstrap portfolio should minimize the use of media queries.
 
 * Functional, deployed application
@@ -19,8 +14,11 @@ The Bootstrap portfolio should minimize the use of media queries.
 * Each page must have valid and correct HTML. (use a validation service)
 * Must contain your personalized information. (bio, name, images, links to social media, etc.)
 * Must properly utilize Bootstrap components and grid system.
+```
 
+## Contact
+#### Developer/Company
+* Homepage: [@profile](https://github.com/Kathleen-Y)
+* Twitter: [@Ros3p3tal](https://twitter.com/Ros3p3tal)
 
-Bonus
-
-Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/kathleen-y/sw-name&title=sw-name&language=&tags=github&category=software) 
